@@ -34,11 +34,11 @@ To run this project, follow these steps:
 
 ### 1. Clone this repository to your local machine:
 
-git clone [https://github.com/your-username/movie-genre-classification.git](https://github.com/arijit258/CODSOFT/edit/main/Movie_Genre_Classification/)
-cd Movie_Genre_Classification
+`git clone https://github.com/your-username/movie-genre-classification.git`
+`cd Movie_Genre_Classification`
 
 ### 2. Install the required Python packages. You can use a virtual environment to manage dependencies.
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ### 3. Run the Jupyter notebooks in the notebooks directory to train and evaluate the machine learning models.
