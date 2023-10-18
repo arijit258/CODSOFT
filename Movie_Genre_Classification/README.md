@@ -1,4 +1,4 @@
-##Movie Genre Classification using Machine Learning Models
+# Movie Genre Classification using Machine Learning Models
 This repository contains a project that focuses on classifying movie genres using various machine learning models, including Naive Bayes, Logistic Regression, and Support Vector Machines (SVM). The goal of this project is to demonstrate how different machine learning algorithms can be used to predict the genre of a movie based on its textual features.
 
 ## Table of Contents
