@@ -29,6 +29,11 @@ Logistic Regression is a commonly used algorithm for binary and multiclass class
 ### Support Vector Machines
 Support Vector Machines (SVM) are powerful models for classification tasks. We used the Scikit-Learn library to build an SVM classifier for movie genre classification.
 
+## Images
+
+![Image-1] 
+
+
 ## Usage
 To run this project, follow these steps:
 
