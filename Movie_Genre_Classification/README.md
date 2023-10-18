@@ -28,3 +28,23 @@ Logistic Regression is a commonly used algorithm for binary and multiclass class
 
 ### Support Vector Machines
 Support Vector Machines (SVM) are powerful models for classification tasks. We used the Scikit-Learn library to build an SVM classifier for movie genre classification.
+
+## Usage
+To run this project, follow these steps:
+
+### 1. Clone this repository to your local machine:
+
+git clone [https://github.com/your-username/movie-genre-classification.git](https://github.com/arijit258/CODSOFT/edit/main/Movie_Genre_Classification/)
+cd Movie_Genre_Classification
+
+### 2. Install the required Python packages. You can use a virtual environment to manage dependencies.
+pip install -r requirements.txt
+
+
+### 3. Run the Jupyter notebooks in the notebooks directory to train and evaluate the machine learning models.
+
+### 4. Experiment with different hyperparameters, feature extraction techniques, and text preprocessing methods to improve model performance.
+
+### 5. Share your findings and contribute to the project.
+
+### 6. Results
