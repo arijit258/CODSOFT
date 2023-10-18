@@ -31,7 +31,11 @@ Support Vector Machines (SVM) are powerful models for classification tasks. We u
 
 ## Images
 
+### 1. Countplot of Genre
 ![Image-1](https://github.com/arijit258/CODSOFT/blob/main/Movie_Genre_Classification/training_data_genre_distribution.png)
+
+### 2. Barplot of Genre
+![image-2](https://github.com/arijit258/CODSOFT/blob/main/Movie_Genre_Classification/training_data_genre_distribution_barplot.png)
 
 
 ## Usage
