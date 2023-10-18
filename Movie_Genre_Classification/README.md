@@ -17,6 +17,7 @@ In this project, we explore the use of three popular machine learning algorithms
 
 ## Data
 We used a publicly available dataset containing movie information, including movie titles, plot summaries, and genre labels. You can find the dataset used in this project in the data directory. The dataset is already preprocessed and split into training and testing sets for your convenience.
+https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 
 ## Machine Learning Models
 ### Naive Bayes
