@@ -31,7 +31,7 @@ Support Vector Machines (SVM) are powerful models for classification tasks. We u
 
 ## Images
 
-![Image-1] 
+![Image-1](https://github.com/arijit258/CODSOFT/blob/main/Movie_Genre_Classification/training_data_genre_distribution.png)
 
 
 ## Usage
