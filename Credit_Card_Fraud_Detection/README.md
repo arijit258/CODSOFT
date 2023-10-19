@@ -13,6 +13,7 @@ Credit card fraud is a common problem that can have severe financial consequence
 
 ## Data
 The dataset used for this project is the Credit Card Fraud Detection dataset from Kaggle. This dataset contains a mix of legitimate and fraudulent credit card transactions. It is highly imbalanced, with a small number of fraudulent transactions compared to legitimate ones.
+
 Link : https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 ## Getting Started
