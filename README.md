@@ -38,7 +38,7 @@ Each task folder should contain the following:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/CODSOFT.git
+git clone https://github.com/arijit258/CODSOFT.git
 ```
 
 2. Navigate to the task directory you wish to work on (e.g., `Task1_Movie_Genre_Classification`).
