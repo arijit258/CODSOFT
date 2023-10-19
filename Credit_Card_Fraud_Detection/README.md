@@ -5,6 +5,7 @@ This GitHub repository contains a machine learning project focused on credit car
 - Project Overview
 - Data
 - Getting Started
+- Images
 - Usage
 - Results
 
@@ -33,6 +34,9 @@ pip install -r requirements.txt
 ### 3. Download the dataset (you can find it here) and place it in the data/ directory.
 
 ### 4. Run the Jupyter notebooks in the notebooks/ directory for data exploration, preprocessing, and model building.
+
+## Images
+![Image-1](https://github.com/arijit258/CODSOFT/blob/main/Credit_Card_Fraud_Detection/fraud_vs_genuine_transaction.png)
 
 ## Usage
 The project provides Jupyter notebooks and Python scripts for various steps in the process, including data preprocessing, model training, and evaluation. Here are the primary steps for using this project:
