@@ -22,4 +22,40 @@ GitHub Link : https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-chur
 ## Usage
 To use the code and models in this repository, follow these steps:
 
-Clone this repository:
+### 1. Clone this repository:
+`git clone https://github.com/arijit258/customer-churn-prediction.git`
+
+### 2. Install the required dependencies (see Installation).
+
+### 3. Place the dataset in the data/ directory (as described in Dataset).
+
+### 4. Run the Jupyter notebooks or Python scripts to train and evaluate the models.
+
+
+## Installation
+You need to install the following Python libraries to run the code and notebooks:
+
+1. pandas
+2. numpy
+3. scikit-learn
+4. xgboost
+5. matplotlib
+6. seaborn
+7. jupyter
+
+You can install these packages using pip:
+`pip install pandas numpy scikit-learn xgboost matplotlib seaborn jupyter`
+
+## Models
+This repository contains three machine learning models for customer churn prediction:
+
+1. Logistic Regression: A simple and interpretable linear model that can be used as a baseline for customer churn prediction.
+
+2. Gradient Boosting Classifier: A more complex ensemble model that can capture complex relationships in the data and provide high predictive accuracy.
+
+3. Random Forest Classifier: Another ensemble model that excels at handling non-linearity and high-dimensional data.
+
+Each model is implemented in a separate Jupyter notebook or Python script, and detailed explanations are provided to guide you through the process.
+
+## Results
+The results of each model's performance, including accuracy, precision, recall, F1-score, and confusion matrices, are presented in the respective model notebooks or scripts. You can compare the models to determine which one performs best for your specific customer churn prediction task.
