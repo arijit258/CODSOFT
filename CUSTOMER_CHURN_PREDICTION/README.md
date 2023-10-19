@@ -4,6 +4,7 @@ This repository contains code and resources for predicting customer churn using 
 ## Table of Contents
 - Introduction
 - Dataset
+- Images
 - Usage
 - Installation
 - Models
@@ -17,6 +18,10 @@ Customer churn prediction is a fundamental task for businesses to identify and m
 ## Dataset
 The dataset used in this project is not included in this repository due to size constraints. You can obtain the dataset from [source] and place it in the data/ directory. 
 GitHub Link : https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
+
+
+## Images
+![Image-1](https://github.com/arijit258/CODSOFT/blob/main/CUSTOMER_CHURN_PREDICTION/heatmap.png)
 
 
 ## Usage
