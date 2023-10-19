@@ -21,15 +21,12 @@ Link : https://www.kaggle.com/datasets/kartik2112/fraud-detection
 To get started with this project, follow these steps:
 
 ### 1. Clone this repository to your local machine:
-'
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-'
+`git clone https://github.com/arijti258/credit-card-fraud-detection.git`
+`cd credit-card-fraud-detection`
 
 ### 2. Create a virtual environment (optional but recommended) and install the required dependencies using the requirements.txt file:
-'
-pip install -r requirements.txt
-'
+
+`pip install -r requirements.txt`
 
 ### 3. Download the dataset (you can find it here) and place it in the data/ directory.
 
